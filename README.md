@@ -1,16 +1,21 @@
-## Hi there 👋
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?logo=github)](https://github.com/sponsors/pabuuu)
 
-<!--
-**pabuuu/pabuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Gian 👋
 
-Here are some ideas to get you started:
+Full-stack developer experienced with **MERN**, **Django**, and **Laravel**.  
+I enjoy building scalable web applications and learning in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ❤️ Support My Work
+
+If you’d like to support my open-source work and learning journey:
+
+👉 **[Sponsor me on GitHub](https://github.com/sponsors/pabuuu)**
+
+Your support helps with:
+- Learning new technologies
+- Hosting and maintaining projects
+- Contributing more consistently to open source
+
+Thank you for checking out my profile!
