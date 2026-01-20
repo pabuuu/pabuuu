@@ -1,5 +1,9 @@
 # Gian Reyes 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif" width="200" />
+</p>
+
 Full-stack developer building real-world web systems and internal tools.
 
 ### Tech
