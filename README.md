@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.tenor.com/3Ee3bt5jNxQAAAAi/pokemon-pok%C3%A9mon.gif" width="96" />
+</p>
+
 # Gian Reyes 👋
 
 Full-stack developer building real-world web systems and internal tools.
