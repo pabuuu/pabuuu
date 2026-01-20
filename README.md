@@ -13,7 +13,7 @@ Full-stack developer building real-world web systems and internal tools.
 - **Healthy Options** – Full-stack Intern (Dec 2025 - Ongoing)  
   → Budget Planning System (React, Vite, Django, JSON APIs, Excel export)
 
-- **Lamina Studios** – Full-stack Intern (Aug 2025 - Nov 2025)
+- **Lamina Studios** – Full-stack Intern (Aug 2025 - Nov 2025)  
   → Built internal dashboards, APIs, and responsive UI using Next.js, Tailwind CSS, Node.js, and Laravel
 
 ### Commissions
