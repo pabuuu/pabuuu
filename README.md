@@ -18,6 +18,9 @@ Full-stack developer building real-world web systems and internal tools.
 
 ### Commissions
 - **Akimi Studio** – Booking & admin management system  
-- **R. Angeles Leasing** – Apartment Management System, Tenant & billing management
+  🌐 https://akimistudio.cloud
+
+- **R. Angeles Leasing** – Apartment management system with tenant, billing, and records management  
+  🌐 https://rangeles.online
 
 > Focused on clean architecture, secure APIs, and maintainable code.
