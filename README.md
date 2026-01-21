@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.tenor.com/3Ee3bt5jNxQAAAAi/pokemon-pok%C3%A9mon.gif" width="96" />
   <img src="https://media.tenor.com/jJ31S_tcfmgAAAAi/zekrom-pokemon-zekrom.gif" width="96" />
+  <img src="https://media.tenor.com/3Ee3bt5jNxQAAAAi/pokemon-pok%C3%A9mon.gif" width="96" />
 </p>
 
 <h1 align="center">Gian Reyes 👋</h1>
