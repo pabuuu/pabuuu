@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/6_Zz8DcZzywAAAAd/pokemon-pokemon-the-origin.gif" width="140" />
+  <img src="https://media1.tenor.com/m/6_Zz8DcZzywAAAAd/pokemon-pokemon-the-origin.gif" width="420" />
 </p>
 
 <h1 align="center">Gian Reyes 👋</h1>
