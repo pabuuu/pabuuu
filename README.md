@@ -1,17 +1,15 @@
-<table>
-  <tr>
-    <td align="left" valign="middle">
-      <h1>Gian Reyes 👋</h1>
-      <p>Full-stack developer building real-world web systems and internal tools.</p>
-    </td>
-    <td align="right" valign="middle">
-      <img
-        src="https://media.tenor.com/3Ee3bt5jNxQAAAAi/pokemon-pok%C3%A9mon.gif"
-        width="64"
-      />
-    </td>
-  </tr>
-</table>
+<h1>
+  Gian Reyes 👋
+  <img
+    src="https://media.tenor.com/3Ee3bt5jNxQAAAAi/pokemon-pok%C3%A9mon.gif"
+    width="36"
+    style="vertical-align: middle; margin-left: 8px;"
+  />
+</h1>
+
+<p>
+  Full-stack developer building real-world web systems and internal tools.
+</p>
 
 ---
 
