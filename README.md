@@ -22,9 +22,9 @@
 
 #### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
   <img src="https://skillicons.dev/icons?i=django" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=expressjs" height="40"/>
 </p>
 
 #### Databases & Services
