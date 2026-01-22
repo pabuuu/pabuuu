@@ -11,12 +11,37 @@
 
 ---
 
-### 🛠 Tech
-- React, Vite, JavaScript
-- Python, Django
-- Next.js, Node.js, Laravel
-- MySQL, SQLite, Supabase
-- Tailwind CSS
+### 🛠 Tech Stack
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+</p>
+
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+</p>
+
+#### Databases & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</p>
 
 ---
 
