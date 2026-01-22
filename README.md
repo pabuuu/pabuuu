@@ -1,14 +1,8 @@
-<h1 align="center">
-  Gian Reyes 👋
-  <img
-    src="https://media.tenor.com/jJ31S_tcfmgAAAAi/zekrom-pokemon-zekrom.gif"
-    width="36"
-    style="vertical-align: middle;"
-  />
-</h1>
+<h1 align="center">Gian Reyes 👋</h1>
 
 <p align="center">
-  Full-stack developer building real-world web systems and internal tools.
+  <img src="https://media.tenor.com/jJ31S_tcfmgAAAAi/zekrom-pokemon-zekrom.gif" width="56" />
+  <img src="https://media.tenor.com/3Ee3bt5jNxQAAAAi/pokemon-pok%C3%A9mon.gif" width="40" />
 </p>
 
 <p align="center">
