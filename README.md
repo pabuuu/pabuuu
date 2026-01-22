@@ -1,5 +1,5 @@
 <h1>
-  Gian Reyes 👋
+  Gian Reyes
   <img
     src="https://media.tenor.com/3Ee3bt5jNxQAAAAi/pokemon-pok%C3%A9mon.gif"
     width="36"
