@@ -1,13 +1,10 @@
-<h1>
-  Gian Reyes
-  <img
-    src="https://media1.tenor.com/m/UxQkF2PI8TEAAAAC/emir-yunus-girit.gif"
-    width="36"
-    style="vertical-align: middle; margin-left: 8px;"
-  />
-</h1>
+<p align="center">
+  <img src="https://media1.tenor.com/m/6_Zz8DcZzywAAAAd/pokemon-pokemon-the-origin.gif" width="140" />
+</p>
 
-<p>
+<h1 align="center">Gian Reyes 👋</h1>
+
+<p align="center">
   Full-stack developer building real-world web systems and internal tools.
 </p>
 
