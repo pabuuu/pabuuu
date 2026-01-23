@@ -45,7 +45,7 @@
 ---
 
 ### 💼 Experience
-- **Healthy Options** — Full-stack Intern *(Dec 2025 – Present)*  
+- **Healthy Options** — Systems Developer Intern *(Dec 2025 – Present)*  
   Budget Planning System using React, Vite, Django, JSON APIs, and Excel export
 
 - **Lamina Studios** — Full-stack Intern *(Aug 2025 – Nov 2025)*  
