@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
   <img src="https://skillicons.dev/icons?i=vite" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
 </p>
 
 #### Backend
