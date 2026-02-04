@@ -5,7 +5,7 @@
 <h1 align="center">Gian Reyes 👋</h1>
 
 <p align="center">
-  Full-stack developer building real-world web systems and internal tools.
+  Full-stack developer with a strong focus on backend systems, APIs, and data-driven applications.
 </p>
 
 ---
